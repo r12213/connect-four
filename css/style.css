@@ -1,18 +1,15 @@
-h1, h2, p{
+h1, h2, h3, p{
   text-align: center;
 }
 
 
-button{
+.board button{
   border-radius: 100%;
   border: 4px solid black;
-  background-color: grey;
+  background-color: rgb(128, 128, 128);
   height: 100px;
   width: 100px;
-  margin-left: 1px;
-  margin-right: 1px;
-  margin-top: 1px;
-  margin-bottom: 1px;
+  margin: 1px;
 }
 
 table{
