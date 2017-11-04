@@ -111,7 +111,7 @@ var currentColor = player1Color;
 $('h3').text(player1+": it is your turn, please pick a column to drop your yellow chip.");
 
 $('.board button').on('click', function() {
-
+  
   // recognize what column was chosen
   var col = $(this).closest("td").index();
 
