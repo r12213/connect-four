@@ -1,4 +1,4 @@
-# Connect four game
+# Connect Four game
 Simple game for two players based on html, css and JavaScript.
 
 The main goal of creating this game was to practice jQuery and it's basic options.
